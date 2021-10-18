@@ -1,0 +1,3 @@
+#!/bin/bash
+sudo touch hello
+sudo chmod 754 hello
